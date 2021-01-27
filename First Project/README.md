@@ -1,12 +1,14 @@
 # <p align="center"> CodeAcademy Project Description <p>
-# <p align="left"> Създайте програма, която подканя човека да въведе проста аритметична операция с две числа от екрана 
+# <p align="left"> Bulgarian Description
+Създайте програма, която подканя човека да въведе проста аритметична операция с две числа от екрана 
 - събиране, изваждане, деление, умножение и отпечатва резултата. 
 Помислете какви променливи и колко трябва да имате?
 Колко са вариантите, които можете да имате, като операции,
 има ли изключителни случаи, за които трябва да помислим (напишете си ги)?
 Какво ще използвате за управление на процеса? <p>
 
-# <p align="left"> Create a program that prompts the person to enter a simple arithmetic operation with two numbers on the screen
+# <p align="left"> English Description
+Create a program that prompts the person to enter a simple arithmetic operation with two numbers on the screen
 - addition, subtraction, division, multiplication and printing results.
 Think about what variables and how many you should have?
 How many options can you have that you can have, such as operations,
