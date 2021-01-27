@@ -249,3 +249,18 @@ void printOrder()
 След като клиентът избере желаният от него брой стаи и нощувки и от менюто избере да продължи напред с резервацията, програмата
 продължава с логиката, която колегите са написали. Изчислява цената, при необходимост предлага отстъпки и накря извежда
 крайанта оферта, според изборите които клиентът е направил. */
+
+/* Summary of optimization:
+1. We added variables to help us perform the optimization we thought was necessary
+2. The optimization itself is expressed in expanding the menu, we put it in an infinite while loop,
+which allows the client to choose an unlimited number of times the rooms he wants and at the moment 
+he has chosen everything he needs there is an option to proceed with the preparation of the offer. 
+Also after choosing each room and number of nights the program displays an approximate price 
+(the price is without tax and without any discounts) and asks the customer if he wants to cancel 
+the order completely and continue with a new one, if he wants to refuse only the room he chose last 
+or the price satisfies him and wants to continue with the reservation you are. Also in the menu 
+there is an option to end the program and cancel the order. If an invalid login is entered, 
+it displays a message and prompts the user to re-enter their selection. After the client selects 
+the desired number of rooms and nights and from the menu chooses to proceed with the reservation, 
+the program continues with the logic that colleagues have written. Calculates the price, offers discounts 
+if necessary and finally displays the final offer, according to the choices the customer has made. * /
